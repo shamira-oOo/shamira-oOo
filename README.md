@@ -1,7 +1,7 @@
 
 ##                              🫧 Hello ! ! >0< 🫧
-##My name is sha'mira and im majoring in computer science! Aiming to do date analytics or programming. 
-##Pronouns : Any 
+## My name is sha'mira and im majoring in computer science! Aiming to do date analytics or programming. 
+
 
 
 <!--
