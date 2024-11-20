@@ -1,4 +1,8 @@
-## Hi there 👋
+
+##                              🫧 Hello ! ! >0< 🫧
+##My name is sha'mira and im majoring in computer science! Aiming to do date analytics or programming. 
+##Pronouns : Any 
+
 
 <!--
 **shamira-oOo/shamira-oOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
